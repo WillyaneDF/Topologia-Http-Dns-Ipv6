@@ -2,6 +2,6 @@
 
  
 
-![](./http-dns-ipv6.PNG)
+![](./http-dns-ipv6.png)
 
 Mensagem: Topologia utilizando os protocolos http-dns-ipv6
